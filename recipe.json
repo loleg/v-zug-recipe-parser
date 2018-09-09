@@ -1,0 +1,224 @@
+{
+  "uuid": "vzug.internet.05.erdbeersirup",
+  "supported-languages": [
+    "de",
+    "en",
+    "fr",
+    "it"
+  ],
+  "name": {
+    "de": "Erdbeersirup",
+    "en": "Strawberry syrup",
+    "fr": "Sirop de fraise",
+    "it": "Sciroppo di fragole"
+  },
+  "description": {
+    "de": "",
+    "en": "",
+    "fr": "",
+    "it": ""
+  },
+  "mainImageUrl": "./immages/images-zughome",
+  "cuisines": [
+    "Swiss",
+    "European"
+  ],
+  "duration": {
+    "preparation": "00:30:00",
+    "cooking": "01:00:00"
+  },
+  "categories": {
+    "calories": "high",
+    "cooking-skill": "moderate",
+    "duration": "medium",
+    "main-ingredient": "fruit",
+    "diet": [
+      "low-carb",
+      "low-fat",
+      "vegetarian",
+      "vegan"
+    ],
+    "allergy": [
+      "sulphite"
+    ],
+    "dish-type": [
+      "jam-preserves-reservoir"
+    ],
+    "intolerance": [
+      "gluten-free",
+      "lactose-free"
+    ],
+    "season": [
+      "spring"
+    ]
+  },
+  "nutrition-value": "0",
+  "nutrients": [
+    {
+      "de": "Kalorien",
+      "en": "calories",
+      "fr": "des calories",
+      "it": "calorie",
+      "amount": "2000 kcal"
+    },
+    {
+      "de": "Fette",
+      "en": "fats",
+      "fr": "graisses",
+      "it": "grassi",
+      "amount": "20.3g"
+    },
+    {
+      "de": "Kohlenhydrate",
+      "en": "carbohydrates",
+      "fr": "les glucides",
+      "it": "carboidrati",
+      "amount": "75.1g"
+    },
+    {
+      "de": "Proteine",
+      "en": "proteines",
+      "fr": "les protéines",
+      "it": "proteines",
+      "amount": "5.4g"
+    },
+    {
+      "de": "Salz",
+      "en": "salt",
+      "fr": "sel",
+      "it": "sale",
+      "amount": "0.05g"
+    }
+  ],
+  "themes": [
+    "Vegan", "Vegetarian", "Breakfast", "Snack"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "de": "reife Erdbeeren",
+        "en": "ripe strawberries",
+        "fr": "fraises bien mûres",
+        "it": "fragole mature"
+      }, 
+      "unit": {
+        "de": "kg",
+        "en": "kg",
+        "fr": "kg",
+        "it": "kg"
+      }
+    },
+    {
+      "name": {
+        "de": "Zucker",
+        "en": "sugar",
+        "fr": "sucre",
+        "it": "zucchero"
+      }, 
+      "unit": {
+        "de": "kg",
+        "en": "kg",
+        "fr": "kg",
+        "it": "kg"
+      }
+    },
+    {
+      "name": {
+        "de": "Zitronensäure",
+        "en": "citric acid",
+        "fr": "acide citrique",
+        "it": "acido citrico"
+      }, 
+      "unit": {
+        "de": "g",
+        "en": "g",
+        "fr": "g",
+        "it": "g"
+      }
+    },
+    {
+      "name": {
+        "de": "Wasser",
+        "en": "water",
+        "fr": "eau",
+        "it": "acqua"
+      }, 
+      "unit": {
+        "de": "dl",
+        "en": "dl",
+        "fr": "dl",
+        "it": "dl"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "de": "Erdbeeren in den gelochten Garbehälter geben und in Auflage 5 schieben.",
+      "en": "Place the strawberries in the perforated cooking tray and put it at level 5.",
+      "fr": "Déposer les fraises dans le bac de cuisson perforé et insérer celui-ci au niveau 5.",
+      "it": "Versare le fragole nel contenitore di cottura forato e inserirlo sull'appoggio 5."
+    },
+    {
+      "de": "Den ungelochten Garbehälter mit Ausguss in Auflage 4 schieben.",
+      "en": "Put the unperforated cooking tray with pouring lip at level 4.",
+      "fr": "Insérer le bac de cuisson non perforé au niveau 4.",
+      "it": "Inserire il contenitore di cottura non forato con il beccuccio sull'appoggio 4."
+    },
+    {
+      "de": "Das Edelstahlblech in Auflage 1 schieben.",
+      "en": "Put the stainless steel tray at level 1.",
+      "fr": "Insérer la plaque en acier inox au niveau 1.",
+      "it": "Inserire la teglia d’acciaio inossidabile sull’appoggio 1."
+    },
+    {
+      "de": "100 g Zucker über die Erdbeeren streuen, restlichen Zucker beiseite stellen.",
+      "en": "Sprinkle about 100 g of sugar over the strawberries and put the rest of the sugar to one side.",
+      "fr": "Saupoudrer 100 g de sucre sur les fraises et réserver le sucre restant.",
+      "it": "Cospargere le fragole con 100 g di zucchero, mettere da parte il resto dello zucchero."
+    },
+    {
+      "de": "Glasflaschen mit Bügel- oder Schraubverschluss gut spülen und vorwärmen.",
+      "en": "Rinse and preheat glass bottles with swing or screw tops.",
+      "fr": "Rincer soigneusement des bouteilles en verre – à bouchon mécanique ou à vis – et les préchauffer.",
+      "it": "Lavare bene le bottiglie di vetro con tappo meccanico o a vite e preriscaldarle."
+    },
+    {
+      "de": "Erdbeersaft in eine weite Pfanne absieben (ergibt ca. 6 dl). Restlicher Zucker, Zitronensäure und Wasser beigeben.",
+      "en": "Strain the strawberry juice into a wide pan (produces about 6 dl). Add the rest of the sugar, citric acid and water.",
+      "fr": "Filtrer le jus de fraise dans une grande casserole (donne env. 6 dl). Incorporer le sucre réservé, l'acide citrique ainsi que l'eau.",
+      "it": "Filtrare il succo delle fragole in un setaccio raccogliendolo in una padella ampia (si ottengono circa 6 dl). Aggiungere il resto dello zucchero, l'acido citrico e l'acqua."
+    },
+    {
+      "de": "Erdbeersaft unter gelegentlichem Rühren aufkochen, evtl. abschäumen.",
+      "en": "Bring the strawberry juice to a boil, stirring occasionally, and skim off any scum on the surface.",
+      "fr": "Porter le jus de fraise à ébullition, tout en remuant de temps en temps. Ecumer la mousse si nécessaire.",
+      "it": "Portare a ebollizione il succo delle fragole mescolando di tanto in tanto, eventualmente asportare la schiuma."
+    },
+    {
+      "de": "Die vorbereiteten Flaschen auf ein Holz- oder Kunststoffbrett stellen, Sirup abfüllen und sofort verschliessen.",
+      "en": "Put the prepared bottles on a wooden or plastic board, fill them with syrup and close immediately.",
+      "fr": "Poser les bouteilles préparées sur une planche en bois ou en plastique, les remplir de sirop et les refermer immédiatement.",
+      "it": "Collocare le bottiglie preparate su un tagliere in legno o plastica, riempirle con lo sciroppo e chiudere subito."
+    },
+    {
+      "de": "Flaschen vor Zugluft geschützt auskühlen.",
+      "en": "Allow the bottles to cool in a draft-free place.",
+      "fr": "Laisser refroidir les bouteilles à l'abri des courants d'air.",
+      "it": "Far raffreddare le bottiglie al riparo da correnti d'aria."
+    },
+    {
+      "de": "Saubere Flaschen beschriften.",
+      "en": "Clean and label the bottles.",
+      "fr": "Etiqueter les bouteilles en veillant à ce qu'elles soient bien propres.",
+      "it": "Applicare le etichette sulle bottiglie pulite."
+    }
+  ],
+  "hints": [
+    {
+      "de": "Im gelochten Garbehälter lassen sich bis zu 2 kg Erdbeeren entsaften.",
+      "en": "The perforated cooking tray can be used to extract the juice from up to 2 kg of strawberries.",
+      "fr": "Dans le bac de cuisson perforé, le jus de jusqu’à 2 kg de fraises peut être extrait.",
+      "it": "Il contenitore di cottura forato può contenere fino a 2 kg di fragole per l'estrazione del succo."
+    }
+  ]
+}
