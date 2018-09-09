@@ -37,7 +37,11 @@
                                         {"format": "default",
                                          "name": "duration",
                                          "type": "string"}],
-                             "missingValues": [""]}}]}
+                             "missingValues": [""]}},{
+                "format": "json",
+                "name": "example schema",
+                "path": "data/recipe.json"
+              }]}
   "maintainers":[{
     "name": "School of Data CH",
     "web": "https://www.schoolofdata.ch/"
