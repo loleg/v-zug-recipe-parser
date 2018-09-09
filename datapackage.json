@@ -1,0 +1,45 @@
+{
+  "name": "v-zug-recipe-parser",
+  "title": "Data Package for recipe collections",
+  "format": "csv",
+  "datapackage_version": "0.0.1",
+  "last_modified": "2018-09-09",
+  "licenses": [{
+    "name": "ODC-PDDL-1.0",
+    "path": "http://opendatacommons.org/licenses/pddl/",
+    "title": "Open Data Commons Public Domain Dedication and License v1.0"
+  }],
+  "sources": [
+    {
+      "name": "Open Food Data Hackathon",
+      "web": "https://hack.opendata.ch/project/223"
+    }
+  ],
+  "profile": "tabular-data-package",
+   "resources": [{"encoding": "utf-8",
+                  "format": "csv",
+                  "mediatype": "text/csv",
+                  "name": "sample",
+                  "path": "data/sample.csv",
+                  "profile": "tabular-data-resource",
+                  "schema": {"fields": [{"format": "default",
+                                         "name": "name",
+                                         "type": "string"},
+                                        {"format": "default",
+                                         "name": "ingredients",
+                                         "type": "integer"},
+                                        {"format": "default",
+                                         "name": "instructions",
+                                         "type": "integer"},
+                                        {"format": "default",
+                                         "name": "skill",
+                                         "type": "string"},
+                                        {"format": "default",
+                                         "name": "duration",
+                                         "type": "string"}],
+                             "missingValues": [""]}}]}
+  "maintainers":[{
+    "name": "School of Data CH",
+    "web": "https://www.schoolofdata.ch/"
+  }]
+}
