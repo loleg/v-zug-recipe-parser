@@ -2,7 +2,7 @@ We got an interesting database of recipes to play with from [V-Zug Home](https:/
 
 In the project repository there is a Jupyter [notebook](https://github.com/loleg/v-zug-recipe-parser/blob/master/explore-vzug-recipes.ipynb) written in Python which explores and visualizes the data, along with a [script](https://github.com/loleg/v-zug-recipe-parser/blob/master/convert.py) to convert the `XML` files we received according to a schema defined in [recipe.py](https://github.com/loleg/v-zug-recipe-parser/blob/master/recipe.py).
 
-We created an example [Data Package](https://frictionlessdata.io/data-packages/) containing a summary of the dataset in `CSV` format, as well as a `JSON` formatted recipe schema proposal in [recipe.json](https://github.com/loleg/v-zug-recipe-parser/blob/master/recipe.json). These are proposed as a potential starting point for future discussions about developing an open standard, the advantages of which may include participation of the wider development community, better interaction with other manufacturers, and consumer trust.
+We created an example [Data Package](https://frictionlessdata.io/data-packages/) containing a summary of the dataset in `CSV` format, as well as a `JSON` formatted recipe schema proposal in [recipe.json](https://github.com/loleg/v-zug-recipe-parser/blob/master/data/recipe.json). These are proposed as a potential starting point for future discussions about developing an open standard, the advantages of which may include participation of the wider development community, better interaction with other manufacturers, and consumer trust.
 
 # Preparation
 
